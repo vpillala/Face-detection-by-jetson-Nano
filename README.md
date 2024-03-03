@@ -21,7 +21,7 @@ Ensure that these libraries are installed before running the script.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/face-recognition-jetson.git
+    git clone https://github.com/vpillala/face-recognition-jetson.git
     cd face-recognition-jetson
     ```
 
